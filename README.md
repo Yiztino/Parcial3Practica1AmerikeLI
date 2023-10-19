@@ -6,4 +6,4 @@ Practica 3, parcial 1.
 
 ---
 
-Un enlace con la url de tu sitio desplegado en GitHub Pages.
+[Parcial 3 Práctica 1 - Enlace al pages](https://yiztino.github.io/Parcial3Practica1AmerikeLI/)
