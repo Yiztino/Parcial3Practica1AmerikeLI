@@ -1,0 +1,10 @@
+html {
+    background-color: rgb(255, 255, 255);
+    color: black;
+  }
+
+  #titulo {
+    background-color: #EBE3B1; /*#DAD8A8*/
+    color: #070705;
+    text-align: center;
+  }
